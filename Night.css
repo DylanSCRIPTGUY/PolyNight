@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+}
+span {
+  color: white;
+}
+
+label {
+  color: white;
+  font-style: italic;
+}
+h1 {
+  color: lightgreen;
+}
